@@ -3,7 +3,7 @@ title: "New blog, who dis?"
 date: 2018-04-01T20:08:39-06:00
 draft: false
 ---
-I thought it was about time to start up a graphical RRS feed again. I have been looking for a place to begin writing out my random thoughts that didn't involve a data silo like Facebook or Twitter. I will still post on those types of networks, but sometimes you just want to own your own data.
+I thought it was about time to start up a graphical RSS feed again. I have been looking for a place to begin writing out my random thoughts that didn't involve a data silo like Facebook or Twitter. I will still post on those types of networks, but sometimes you just want to own your own data.
 
 I originally looked at [Mastadon](https://joinmastodon.org) but the cost and hassle of running my own instance just seems like a royal pain. I know I could join an existing instance but; been there, done that. When Mastadon had it's original surge I joined one of the top rated instances... and then that instance left the Internet. Which means my old account with all my followers and such went with it. The thought of starting over when nobody I personally know uses Mastadon seems too steep a hill to climb.
 
