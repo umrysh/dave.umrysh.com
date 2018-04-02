@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://dave.umrysh.com/"
 languageCode = "en-us"
 Title = "Dave's weblog / RSS feed"
 # Copyright notice. This is displayer in the footer.
