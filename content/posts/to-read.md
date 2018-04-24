@@ -7,6 +7,10 @@ Below is a list of books I plan to read. This page serves as a backup to my  [Go
 
 <ol>
 
+<li>Vanguard (The Genesis Fleet #1) - <font color='299882'>Jack Campbell</font>
+<p></li>
+<li>Ascendant (The Genesis Fleet #2) - <font color='299882'>Jack Campbell</font>
+<p></li>
 <li>Runic Amulets and Magic Objects - <font color='299882'>Mindy MacLeod</font>
 <p></li>
 <li>The Knights Templar in the New World: How Henry Sinclair Brought the Grail to Acadia - <font color='299882'>William F. Mann</font>
