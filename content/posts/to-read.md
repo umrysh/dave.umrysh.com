@@ -7,6 +7,10 @@ Below is a list of books I plan to read. This page serves as a backup to my  [Go
 
 <ol>
 
+<li>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress - <font color='299882'>Steven Pinker</font>
+<p></li>
+<li>The Tarot of the Bohemians - <font color='299882'>Papus</font>
+<p></li>
 <li>Vanguard (The Genesis Fleet #1) - <font color='299882'>Jack Campbell</font>
 <p></li>
 <li>Ascendant (The Genesis Fleet #2) - <font color='299882'>Jack Campbell</font>
