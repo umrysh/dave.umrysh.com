@@ -7,6 +7,8 @@ Below is a list of books I plan to read. This page serves as a backup to my  [Go
 
 <ol>
 
+<li>Honor Among Thieves (Empire and Rebellion #2) - <font color='299882'>James S.A. Corey</font>
+<p></li>
 <li>Enlightenment Now: The Case for Reason, Science, Humanism, and Progress - <font color='299882'>Steven Pinker</font>
 <p></li>
 <li>The Tarot of the Bohemians - <font color='299882'>Papus</font>
