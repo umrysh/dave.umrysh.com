@@ -2,24 +2,24 @@ baseurl = "https://dave.umrysh.com/"
 languageCode = "en-us"
 Title = "Dave's weblog / RSS feed"
 # Copyright notice. This is displayer in the footer.
-copyright = "All content, unless otherwise noted, is &copy; 2018 Dave Umrysh<br><a href='index.xml'>Subscribe</a>"
+copyright = "All content, unless otherwise noted, is &copy; 2019 Dave Umrysh<br><a href='index.xml'>Subscribe</a>"
 theme = "pickles"
 
 [params]
 	paginate = 10
 	# Social accounts. Link to these accounts are displayed in the header and
 	# footer
-	twitter = "SudoSays"
-	facebook = "daveumrysh"
-	instagram = "SudoSays"
-	github = "umrysh"
+	#twitter = "SudoSays"
+	#facebook = "daveumrysh"
+	#instagram = "SudoSays"
+	#github = "umrysh"
 	# Google Analytics API key.
 	ga_api_key = "Your Google Analytics tracking id"
-	#author = "Dave Umrysh"
-	#authorwebsite = "umrysh.com"
-	#avatar = "img/dave.jpeg"
-	#contact = "mailto:blah@umrysh.com"
-	#bio = ""
+	author = "Dave Umrysh"
+	#authorwebsite = "https://umycode.com"
+	avatar = "img/dave.jpeg"
+	contact = "mailto:dave@umycode.com"
+	bio = "I divide my time between family, Freemasonry, and writing code. Currently working on something cool..."
 	# Short subtitle/tagline. This is displayed in the header.
 	subtitle = "Or more aptly, me shouting into the void"
 	# Logo image. This is displayed ogp image.
