@@ -17,7 +17,7 @@ theme = "pickles"
 	ga_api_key = "Your Google Analytics tracking id"
 	author = "Dave Umrysh"
 	#authorwebsite = "https://umycode.com"
-	avatar = "img/dave.jpeg"
+	avatar = "/img/dave.jpeg"
 	contact = "mailto:dave@umycode.com"
 	bio = "I divide my time between family, Freemasonry, and writing code. Currently working on something cool..."
 	# Short subtitle/tagline. This is displayed in the header.
