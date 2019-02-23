@@ -9,10 +9,10 @@ theme = "pickles"
 	paginate = 10
 	# Social accounts. Link to these accounts are displayed in the header and
 	# footer
-	#twitter = "SudoSays"
+	twitter = "SudoSays"
 	#facebook = "daveumrysh"
 	#instagram = "SudoSays"
-	#github = "umrysh"
+	github = "umrysh"
 	# Google Analytics API key.
 	ga_api_key = "Your Google Analytics tracking id"
 	author = "Dave Umrysh"
