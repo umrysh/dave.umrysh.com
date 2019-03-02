@@ -1,0 +1,21 @@
+---
+title: "Mmmmm coffee"
+date: 2019-03-02T08:11:34-07:00
+draft: false
+---
+Man is McDonalds coffee good! 
+
+Saturday mornings are becoming so great again. Now that our youngest boy is 4 our morning routine is so chill. The boys were awake around 6:30am but they know to hangout in their rooms until 7am and play quietly or read. At 7 I quietly go into their rooms and let them know they can go downstairs and play with Lego and watch PBS. Seth turns on the TV himself and they hangout in the TV room while I go work out and take a shower. I then make them breakfast and put the coffee on. And now I am sitting in the upstairs den, writing this post, enjoying my coffee while the boys play downstairs. I am a very lucky man.
+
+Erin taught a workshop last night as part of her other business, [The Discovered Cupboard](http://discoveredcupboard.com), so I spent the evening catching up on [Star Trek](https://www.imdb.com/title/tt5171438/). And boy is this turning out to be a pretty fun season. Cannot wait to see how they wrap up this storyline.
+
+We have finalized the booking of our BC vacation this summer which I am so looking forward to. I booked the rental car through Costco (because why put unnecessary KMs on our vehicles when I can rent a car for ~$200 for the week), booked our AirBNB for the week (a nice cabin right near the lake), and for our final night on the way back (after hitting up the [Enchanted Forest](https://www.enchantedforestbc.com/), of course) we are staying at [3 Vally Gap](http://www.3valley.com/). That way we can take in the ghost town the following morning before heading back to Edmonton.
+
+In coding news I built my first [PWA](https://en.wikipedia.org/wiki/Progressive_web_applications) ([https://app.worktyme.ca](https://app.worktyme.ca)) which was relatively easy. Way easier then I had thought. The hardest parts came with the iOS quirks but even those were not that bad. The PWA is not formatted for viewing on a desktop browser at all, it is just a port of the current [Cordova](https://en.wikipedia.org/wiki/Apache_Cordova) app that I have in the Play store and Apple App store. I just wanted to have another avenue for users to access the app in the case something should ever happen with my developer accounts. I keep seeing blog posts of people who have had their developer accounts banned for no good reason and that makes me a little nervous. So at least if something like that should ever happen I can point my users to the PWA while I work with Apple/Google to be unbanned. Not that I ever think I will be banned, but at least now I have mitigated that risk. And that makes me sleep better at night.
+
+I also pushed out the [Golden Retriever](http://goldenretrieverapp.com/) iOS app :) It is currently in review by Apple, which could be a week or more before it actually gets listed. It was already rejected once for the silliest reason. I have built into the app a demo mode so that users can test out the app without signing up for an account. The demo mode give you access to a collection dictionary called the "Sample Asset Collection Dictionary". So I of course took all my app screen shots while in this demo mode. Well, because on the top banner of all my screen shots it said "Sample Asset Collection Dictionary" Apple said that my screen shots are showing a beta version (The "Sample" apparently means beta?) and needed to be updated to production grade screen shots. So I retook all my screen shots and re-submitted. And now I wait another 2-4 days. Too bad I can't make GR a PWA, am I right?
+
+In IT Support news I had a fun job this week in that I helped a client change over their POS system from [Vend](https://www.vendhq.com/) to [Shopify](https://www.shopify.com/). Which involved setting up a new [Moneris](https://www.moneris.com/) device in the process. And I just have to say, if you order a new Moneris device and tell Moneris you are ordering it to set up a Shopify POS you would think they would include all the information your would need to set it up, right? Instead of making me call in and wait on hold for 40 minutes to get the ECR ID for the device that could have easily been included in the documentation. I did however make it into my clients [Facebook live](https://www.facebook.com/urbanwhytehome/videos/423855768357619/) stream. I'm the creepy IT guy in the back :)
+
+
+
