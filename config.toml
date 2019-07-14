@@ -9,19 +9,20 @@ theme = "pickles"
 	paginate = 10
 	# Social accounts. Link to these accounts are displayed in the header and
 	# footer
-	twitter = "SudoSays"
+	#twitter = "SudoSays"
 	#facebook = "daveumrysh"
 	#instagram = "SudoSays"
-	github = "umrysh"
+	#github = "umrysh"
 	# Google Analytics API key.
 	ga_api_key = "Your Google Analytics tracking id"
 	author = "Dave Umrysh"
 	#authorwebsite = "https://umycode.com"
 	avatar = "/img/dave.jpeg"
-	contact = "mailto:dave@umycode.com"
-	bio = "I divide my time between family, Freemasonry, and writing code. Currently working on something cool..."
+	#contact = "mailto:dave@umycode.com"
+	# manually put this in siteinfo.html
+	#bio = "I am the owner of [Umycode Technolgies](https://umycode.com) and I divide my time between family, Freemasonry, writing code, and helping businesses grow. <br>You can find me on the [Fediverse](https://fed.umycode.com/@dave) or [Twitter](https://twitter.com/SudoSays)."
 	# Short subtitle/tagline. This is displayed in the header.
-	subtitle = "Or more aptly, me shouting into the void"
+	subtitle = "Contains random thoughts and tutorials"
 	# Logo image. This is displayed ogp image.
 	#logo = "/path/to/logo"
 	favicon = "img/favicon.ico"
