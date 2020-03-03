@@ -1,6 +1,6 @@
 ---
 title: "Make an Active Directory user a local admin"
-date: 2020-03-03T10:27:04-07:00
+date: 2020-03-03T10:28:04-07:00
 draft: false
 ---
 
