@@ -1,0 +1,27 @@
+{{ if or ( .Site.Params.avatar ) ( .Site.Params.author ) ( .Site.Params.bio ) ( .Site.Params.contact ) }}
+<aside class="p-author">
+  {{ with .Site.Params.avatar }}
+  <div class="c-avatar p-author__avatar">
+    <img alt="Author Avatar" src="{{ . }}" />
+  </div>
+  {{ end }}
+  {{ if or ( .Site.Params.author ) ( .Site.Params.bio ) ( .Site.Params.contact ) }}
+  <div class="p-author__body">
+    {{ with .Site.Params.author }}
+    <p class="c-title p-author__name ">{{ . }}</p>
+    {{ end }}
+    <p>I am the owner of <a href="https://umycode.com" target="_blank">Umycode Technologies</a> and I divide my time between family, Freemasonry, and helping businesses grow. If you would like to chat please write me an email at <a href="mailto:dave@umycode.com">dave@umycode.com</a>.</p>
+    {{ with .Site.Params.bio }}
+    <p>{{ . }}</p>
+    {{ end }}
+    {{ with .Site.Params.contact }}
+    <p>
+      <a href="{{ . }}">
+        Contact me
+      </a>
+    </p>
+    {{ end }}
+  </div>
+  {{ end }}
+</aside>
+{{ end }}
