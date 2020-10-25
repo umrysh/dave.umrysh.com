@@ -44,7 +44,7 @@
     "webpack-stream": "^3.2.0"
   },
   "dependencies": {
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "slick-carousel": "^1.8.1",
     "zoom.js": "https://github.com/fat/zoom.js/"
   }
