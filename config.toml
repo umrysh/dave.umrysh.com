@@ -2,7 +2,7 @@ baseurl = "https://dave.umry.sh/"
 languageCode = "en-us"
 Title = "Dave's weblog / RSS feed"
 # Copyright notice. This is displayer in the footer.
-copyright = "All content, unless otherwise noted, is &copy; 2020 Dave Umrysh<br><a href='index.xml'>Subscribe</a>"
+copyright = "All content, unless otherwise noted, is &copy; 2020 Dave Umrysh<br><a href='/index.xml'>Subscribe</a>"
 theme = "pickles"
 
 [params]
